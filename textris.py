@@ -1,7 +1,7 @@
-# Derived from Tetromino (a Tetris clone)
-# By Al Sweigart al@inventwithpython.com
+# derived from tetromino (a tetris clone)
+# by al sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
-# Released under a "Simplified BSD" license
+# released under a "simplified bsd" license
 
 import random, time, pygame, sys
 from pygame.locals import *
